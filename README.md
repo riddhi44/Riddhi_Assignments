@@ -3,11 +3,11 @@ Hey this is Riddhi, Do have a look on my assignments which are a part of my trai
 Git and Github Assignments:
 section-1
 section-2
-section-3HAVE A LOOK AT NETWORK DIAGRAM IN INSIGHTS to view detailed branches
+section-3
 **********************************************************************************
 Mongodb assignmnents:
 Section-1
-section-2
+Section-2
 Section-3
 **********************************************************************************
 Core java section:
