@@ -15,4 +15,9 @@ Uml assignments-4 daigrams
 1-9 java core assignments
 junit assignment - 1
 **********************************************************************************
-
+Spring Assignments - Spring Core , Spring Rest, Spring MVC
+Spring Security
+**********************************************************************************
+HTML-CSS Assignments
+JavaScript Assignments
+**********************************************************************************
